@@ -10,12 +10,12 @@ In this workshop, we will discuss how to manage basic tasks on GitHub.
 
 | **Goal**                          | **Description**                                   |
 | -----------------------------     | --------------------------------------------------|
-| **What will you learn**           | how to do basic tasks in GitHub using Git         |
+| **What will you learn**           | How to do basic tasks in GitHub using Git         |
 | **What you'll need**              | [A GitHub account](https://github.com/)           |
 | **Duration**                      | 1 hour                                            |
 | **Microsoft Cloud Topics taught** | GitHub                                            |
 | **solution**                      |                                                   |
-| **Slides**                        | [Powerpoint](C:\Users\hp\Desktop\PRERNA\CODING\git_projects\Intro-to-Git-and-GitHub\workshop)|
+| **Slides**                        | [Powerpoint](Intro to Git and GitHub.pptx)|
                          
 ## Video
 
