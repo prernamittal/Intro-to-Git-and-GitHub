@@ -15,7 +15,7 @@ In this workshop, we will discuss how to manage basic tasks on GitHub.
 | **Duration**                      | 1 hour                                            |
 | **Microsoft Cloud Topics taught** | GitHub                                            |
 | **Solution**                      |                                                   |
-| **Slides**                        | [Powerpoint](workshop\Intro to Git and GitHub.pptx)        |
+| **Slides**                        | [Powerpoint](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fprernamittal%2FIntro-to-Git-and-GitHub%2Fmain%2Fworkshop%2FIntro%2520to%2520Git%2520and%2520GitHub.pptx&wdOrigin=BROWSELINK)        |
                          
 ## Video
 
