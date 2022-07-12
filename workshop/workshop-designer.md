@@ -5,10 +5,11 @@ The UBD technique of curriculum design was created by Jay McTighe and Grant Wigg
 
 ## Introduction to Git and GitHub
 
-## Module Source
-https://docs.microsoft.com/learn/modules/introduction-to-github/?WT.mc_id=academic-55780-jelooper 
+## Workshop Source
+https://docs.microsoft.com/learn/modules/introduction-to-github/
+https://docs.microsoft.com/learn/modules/contribute-open-source/
 
-## Goals 
+## Stage 1: Desired Results
 
 > In this workshop, you will learn how to use Git to manage basic tasks on GitHub.
 
